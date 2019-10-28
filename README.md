@@ -1,4 +1,4 @@
-# Patatap Clone: JS web app.
+# Video Audio Synthesizer: JS web app.
 
 - Simple clone of Patatap.com app
 - App description :
