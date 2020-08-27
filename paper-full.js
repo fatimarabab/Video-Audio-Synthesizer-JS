@@ -30,7 +30,9 @@
  *
  */
 
-window.alert("Welcome to my Music Making App! To start press any A-Z key and make sure your volume is up!");
+window.onload = function(){
+	window.alert("Welcome to my Music Making App! To start press any A-Z key and make sure your volume is up!");
+}
 
 var paper = new function(undefined) {
 
